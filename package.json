@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev -o",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "clear": "rm -rf .output .nuxt node_modules pnpm-lock.yaml"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "^0.1.4",
+    "nuxt": "^3.2.0",
+    "sass": "^1.58.1",
+    "sass-loader": "^13.2.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

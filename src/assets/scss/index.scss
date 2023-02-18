@@ -1,0 +1,12 @@
+@import 'root';
+@import 'colors';
+
+body {
+  background: var(--bg);
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+}
