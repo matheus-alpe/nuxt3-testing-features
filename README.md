@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# Testing Nuxt 3 and Vue 3 features
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
